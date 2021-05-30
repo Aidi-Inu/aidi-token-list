@@ -1,7 +1,7 @@
 # @aidiinu/aidi-token-list
 
-[![Tests](https://github.com/Aidi-Inu/aidi-token-list/workflows/Tests/badge.svg)](https://github.com/Aidi-Inu/aidi-token-list/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/@aidiinu/aidi-token-list)](https://unpkg.com/@aidiinu/aidi-token-list@latest/)
+[![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/Uniswap/default-token-list/actions?query=workflow%3ATests)
+[![npm](https://img.shields.io/npm/v/@uniswap/default-token-list)](https://unpkg.com/@uniswap/default-token-list@latest/)
 
 This NPM module and GitHub repo contains the default token list used in the AidiSwap interface.
 
