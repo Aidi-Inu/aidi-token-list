@@ -1,6 +1,6 @@
 {
   "name": "@aidi-inu/aidi-token-list",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "◦ The Aidiswap default token list",
   "main": "build/aidiswap-default.tokenlist.json",
   "scripts": {
