@@ -3,6 +3,7 @@
   "version": "1.0.17",
   "description": "◦ The Aidiswap default token list",
   "main": "build/aidiswap-default.tokenlist.json",
+  "private": false,
   "scripts": {
     "test": "mocha",
     "build": "rimraf build && mkdir -p build && node src/write.js > build/aidiswap-default.tokenlist.json",
