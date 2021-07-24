@@ -16,6 +16,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8/logo.png"
   },
   {
+      "name": "Inubis",
+      "address": "0xAB917b34B57F1C01c5DF8DdC0F75828E3914FCe6",
+      "symbol": "INUBIS",
+      "decimals": 9,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/inubis/Resources/main/logo/logo_256.png"
+  },
+  {
     "name": "Dai Stablecoin",
     "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "symbol": "DAI",
