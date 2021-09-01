@@ -17,7 +17,7 @@
   },
   {
       "name": "Verse",
-      "address": "0xeb58cbc02fa1eb966e8d27e90559a00c518e4234",
+      "address": "0xeb58cBC02fa1Eb966e8d27e90559A00c518E4234",
       "symbol": "VERSE",
       "decimals": 18,
       "chainId": 1,
