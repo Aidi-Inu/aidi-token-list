@@ -8,7 +8,7 @@ This NPM module and GitHub repo contains the default token list used in the Aidi
 ## Adding a token
 
 To request that we add a token to the list,
-[file an issue](https://github.com/Aidi-Inu/aidi-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+[file an issue](https://github.com/AidiFinance/aidi-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
 
 ### Disclaimer
 

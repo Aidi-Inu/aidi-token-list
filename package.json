@@ -1,6 +1,6 @@
 {
   "name": "@aidi-inu/aidi-token-list",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "◦ The Aidiswap default token list",
   "main": "build/aidiswap-default.tokenlist.json",
   "scripts": {
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aidi-Inu/aidi-token-list.git"
+    "url": "git+https://github.com/AidiFinance/aidi-token-list.git"
   },
   "keywords": [
     "aidiswap",
@@ -24,9 +24,9 @@
   "author": "Aidi Inu",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Aidi-Inu/aidi-token-list/issues"
+    "url": "https://github.com/AidiFinance/aidi-token-list/issues"
   },
-  "homepage": "https://github.com/Aidi-Inu/aidi-token-list#readme",
+  "homepage": "https://github.com/AidiFinance/aidi-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",

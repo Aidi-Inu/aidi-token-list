@@ -17,11 +17,11 @@
   },
   {
       "name": "Verse",
-      "address": "0xeb58cBC02fa1Eb966e8d27e90559A00c518E4234",
+      "address": "0xe18841d7A75866688E291703BdE66c3378bd74A3",
       "symbol": "VERSE",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/Aidi-Inu/Aidi-Inu-Creative/main/Logo/verse_256.png"
+      "logoURI": "https://raw.githubusercontent.com/AidiFinance/Aidiverse-Creative/main/Logo/verse_256.png"
   },
   {
       "name": "Inubis",
@@ -30,14 +30,6 @@
       "decimals": 9,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/inubis/Resources/main/logo/logo_256.png"
-  },
-  {
-    "name": "Dai Stablecoin",
-    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-    "symbol": "DAI",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
     "name": "Tether USD",
@@ -54,13 +46,5 @@
     "decimals": 6,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-  },
-  {
-    "name": "Wrapped BTC",
-    "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-    "symbol": "WBTC",
-    "decimals": 8,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   }
 ]
