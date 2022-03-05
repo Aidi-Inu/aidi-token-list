@@ -16,14 +16,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8/logo.png"
   },
   {
-      "name": "Verse",
-      "address": "0xe18841d7A75866688E291703BdE66c3378bd74A3",
-      "symbol": "VERSE",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/AidiFinance/Aidiverse-Creative/main/Logo/verse_256.png"
-  },
-  {
       "name": "Inubis",
       "address": "0x3667d6B1AEE4f96b608EE365FdA9fa5BA866604c",
       "symbol": "INUBIS",
