@@ -18,7 +18,7 @@
       "address": "0x48C97cf0A3837106Cb58009D308DF4DfAbe441C7",
       "symbol": "VERSE",
       "decimals": 18,
-      "chainId": 80001,
+      "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/AidiFinance/Aidiverse-Creative/main/Logo/verse_256.png"
     },
     {
