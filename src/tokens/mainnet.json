@@ -8,14 +8,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
-      "name": "Aidi Finance",
-      "address": "0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8",
-      "symbol": "AIDI",
-      "decimals": 9,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8/logo.png"
-  },
-  {
       "name": "Inubis",
       "address": "0x3667d6B1AEE4f96b608EE365FdA9fa5BA866604c",
       "symbol": "INUBIS",
