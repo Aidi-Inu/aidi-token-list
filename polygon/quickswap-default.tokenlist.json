@@ -1,6 +1,6 @@
 {
   "name": "AidiSwap Token List",
-  "timestamp": "2022-04-02T09:24:04.008Z",
+  "timestamp": "2022-07-19T09:24:04.008Z",
   "version": {
     "major": 1,
     "minor": 2,
@@ -20,6 +20,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/AidiFinance/Aidiverse-Creative/main/Logo/verse_256.png"
+    },
+    {
+      "name": "Aidi Matic",
+      "address": "0xBeFc2781C187376ac54248b84e8E8F7DE87f6679",
+      "symbol": "AIDI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/AidiFinance/Aidiverse-Creative/main/Logo/aidi_256.png"
     },
     {
       "name": "Ether",
